@@ -9,9 +9,14 @@ Algunos de los temas que vimos
 ¿Cuál es la visión general del proyecto? ¿Qué problema busca resolver (aunque sea de forma muy básica
 #Posibles Funcionalidades o Áreas de Enfoque Inicial
 Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibles usuarios.
-# Integrantes del Equipo: 
+# Integrantes del Equipo:
+</p>
 -Mariela Anahi D'aloia
+</p>
 - Tort Ludmila Cristal
+</p>
 - Cristian Mauricio Fernandez
+</p>
 - Gonzalo Nicolas Vargas
+</p>
 
