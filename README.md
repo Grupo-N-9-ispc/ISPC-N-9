@@ -8,12 +8,12 @@ Algunos de los temas que vimos
 Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibles usuarios.
 <h2>INTEGRANTES DEL EQUIPO:</h2>
 </p>
-- Mariela Anahi D'aloia
+<h5>- Mariela Anahi D'aloia</h5>
 </p>
-- Tort Ludmila Cristal
+<h5>- Tort Ludmila Cristal</h5>
 </p>
-- Cristian Mauricio Fernandez
+<h5>- Cristian Mauricio Fernandez</h5>
 </p>
-<h6>- Gonzalo Nicolas Vargas:</h6>
+<h5>- Gonzalo Nicolas Vargas:</h5>
 Mis habilidades son basicas,Tengo buena comunicacion a la hora de trabajar en equipo , dispuesto a escuchar, responsable.
 </p>
