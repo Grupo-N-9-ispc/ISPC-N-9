@@ -3,9 +3,9 @@
 
 </p>
 <h2>DESCRIPCIÓN DE LA IDEA</h2>
-La elección de una carrera es un momento clave. En zonas como el Valle de Punilla, la información sobre la oferta académica suele estar dispersa, dificultando la toma de decisiones. Este proyecto busca reunir en un solo sitio todos los datos relevantes para que los jóvenes puedan conocer qué, dónde, cómo estudiar cerca de casa. Ofreciendo el plus de poder encontrar fácilmente posibles compañeros de estudio que se encuentren del área de punilla.
+La elección de una carrera es un momento clave. En zonas como el Valle de Punilla, la información sobre la oferta académica suele estar dispersa, dificultando la toma de decisiones. Este proyecto busca reunir en un solo sitio todos los datos relevantes para que los jóvenes puedan conocer qué, dónde, cómo estudiar cerca de casa. Ofreciendo el plus de poder encontrar fácilmente posibles compañeros de estudio que se encuentren dentro del área de Punilla.
 <h2>Posibles Funcionalidades o Áreas de Enfoque Inicial</h2>
-Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibles usuarios.
+Unificamos la infomación de todas las ofertas educativas del nivel terciario o superior del área de Punilla. Enfocado a personas de todas las edades de dicho departamento que quieran iniciar sus estudios,.
 <h2>INTEGRANTES DEL EQUIPO:</h2>
 </p>
 <h5>- Mariela Anahi D'aloia</h5>
