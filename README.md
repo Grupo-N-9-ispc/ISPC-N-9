@@ -1,4 +1,4 @@
-# EDUCACION
+# PuntoEdu Punilla
 </p>
 Algunos de los temas que vimos 
 </p>
