@@ -15,4 +15,5 @@ Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibl
 - Cristian Mauricio Fernandez
 </p>
 - Gonzalo Nicolas Vargas
+Mis habilidades son basicas,Tengo buena comunicacion a la hora de trabajar en equipo, dispuesto a escuchar, responsable.
 </p>
