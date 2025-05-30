@@ -1,9 +1,9 @@
-# EDUCACION
+# 
 </p>
-Algunos de los temas que vimos 
+
 </p>
 <h2>DESCRIPCIÓN DE LA IDEA</h2>
-¿Cuál es la visión general del proyecto? ¿Qué problema busca resolver (aunque sea de forma muy básica
+La elección de una carrera es un momento clave. En zonas como el Valle de Punilla, la información sobre la oferta académica suele estar dispersa, dificultando la toma de decisiones. Este proyecto busca reunir en un solo sitio todos los datos relevantes para que los jóvenes puedan conocer qué, dónde, cómo estudiar cerca de casa. Ofreciendo el plus de poder encontrar fácilmente posibles compañeros de estudio que se encuentren del área de punilla.
 <h2>Posibles Funcionalidades o Áreas de Enfoque Inicial</h2>
 Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibles usuarios.
 <h2>INTEGRANTES DEL EQUIPO:</h2>
