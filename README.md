@@ -11,6 +11,7 @@ Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibl
 <h5>- Mariela Anahi D'aloia</h5>
 </p>
 <h5>- Tort Ludmila Cristal</h5>
+Habilidades básicas en HTML, soy responsable, compañera, atenta a la hora de trabajar en quipo, escucho y trabajo bien grupalmente.
 </p>
 <h5>- Cristian Mauricio Fernandez</h5>
 </p>
