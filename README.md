@@ -2,11 +2,11 @@
 </p>
 Algunos de los temas que vimos 
 </p>
-##DESCRIPCIÓN DE LA IDEA: 
+<h2>DESCRIPCIÓN DE LA IDEA</h2>
 ¿Cuál es la visión general del proyecto? ¿Qué problema busca resolver (aunque sea de forma muy básica
-## Posibles Funcionalidades o Áreas de Enfoque Inicial
+<h2>Posibles Funcionalidades o Áreas de Enfoque Inicial</h2>
 Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibles usuarios.
-##INTEGRANTES DEL EQUIPO: 
+<h2>INTEGRANTES DEL EQUIPO:</h2>
 </p>
 - Mariela Anahi D'aloia
 </p>
