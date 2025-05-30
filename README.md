@@ -9,7 +9,7 @@ Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibl
 <h2>INTEGRANTES DEL EQUIPO:</h2>
 </p>
 <h5>- Mariela Anahi D'aloia</h5>
-</p>
+</p>   Docente en proceso de aprendizaje dentro del mundo del desarrollo web. Buena comunicación y resolución de problemas. Dispuesta a compartir mis conocimientos en general con mis compañeros, pero especialmente predispuesta a aprender de mis pares. 
 <h5>- Ludmila Cristal Tort</h5>
 Habilidades básicas en HTML, soy responsable, compañera, atenta a la hora de trabajar en quipo, escucho y trabajo bien grupalmente.
 </p>
