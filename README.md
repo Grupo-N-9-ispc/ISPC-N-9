@@ -9,6 +9,7 @@ Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibl
 </p>
 - Mariela Anahí D'aloia
 </p> Docente en proceso de aprendizaje dentro del mundo del desarrollo web. Buena comunicación y resolución de problemas. Dispuesta a compartir mis conocimientos en general, pero especialmente predispuesta a aprender de mis pares.
+</p>
 - Tort Ludmila Cristal
 </p>
 - Cristian Mauricio Fernandez
