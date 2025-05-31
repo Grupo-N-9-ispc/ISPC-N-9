@@ -1,6 +1,6 @@
 # PuntoEdu Punilla
 </p>
-Algunos de los temas que vimos 
+Nuestro proyecyo:
 </p>
 ##DESCRIPCIÓN DE LA IDEA: 
 ¿Cuál es la visión general del proyecto? ¿Qué problema busca resolver (aunque sea de forma muy básica
@@ -11,6 +11,7 @@ Algunas ideas generales de lo que podría hacer el proyecto en el futuro. Posibl
 - Mariela Anahi D'aloia
 </p>
 - Tort Ludmila Cristal
+Soy responsable, compañera, trabajo bien en equipo y escucho las necesidades de mis compañeros.
 </p>
 - Cristian Mauricio Fernandez
 </p>
