@@ -9,7 +9,7 @@ Unificamos la infomación de todas las ofertas educativas del nivel terciario o 
 <h2>INTEGRANTES DEL EQUIPO:</h2>
 </p>
 <h5>- Mariela Anahi D'aloia</h5>
-</p>   Docente en proceso de aprendizaje dentro del mundo del desarrollo web. Buena comunicación y resolución de problemas. Dispuesta a compartir mis conocimientos en general con mis compañeros, pero especialmente predispuesta a aprender de mis pares. 
+</p>   Docente en proceso de aprendizaje dentro del mundo del desarrollo web. Buena comunicación y resolución de problemas. Dispuesta a compartir mis conocimientos en general, pero especialmente predispuesta a aprender de mis pares. 
 <h5>- Ludmila Cristal Tort</h5>
 Habilidades básicas en HTML, soy responsable, compañera, atenta a la hora de trabajar en quipo, escucho y trabajo bien grupalmente.
 </p>
