@@ -14,6 +14,7 @@ Unificamos la infomación de todas las ofertas educativas del nivel terciario o 
 Habilidades básicas en HTML, soy responsable, compañera, atenta a la hora de trabajar en quipo, escucho y trabajo bien grupalmente.
 </p>
 <h5>- Cristian Mauricio Fernandez</h5>
+Mis habilidades en el desarrollo web son básicas, pero poseo una gran capacidad en la parte técnica de hardware y software de PC. Soy una persona proactiva, siempre dispuesta a escuchar, a participar en proyectos y muy responsable.
 </p>
 <h5>- Gonzalo Nicolas Vargas:</h5>
 Mis habilidades son basicas,Tengo buena comunicacion a la hora de trabajar en equipo , dispuesto a escuchar, responsable.
