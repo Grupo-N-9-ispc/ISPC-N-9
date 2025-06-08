@@ -1,0 +1,22 @@
+# Planificador de Carreras - Proyecto Integrador
+
+Plataforma en consola para gestionar usuarios con diferentes roles: **administrador** y **usuario estándar**.
+
+## 🧩 Funcionalidades
+
+- Registro e inicio de sesión de usuarios
+- Validación de contraseñas
+- Diferenciación de accesos por rol
+- Gestión completa de usuarios (CRUD)
+
+## 🗃️ Base de Datos
+
+- MySQL
+- 2 tablas: `usuarios`, `roles`
+- Script de creación incluido en `base_de_datos.sql`
+
+## 🧠 Tecnologías
+
+- Python 3
+- MySQL
+- Programación Orientada a Objetos
