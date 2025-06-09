@@ -1,4 +1,4 @@
-# main.py
+
 
 # "from getpass" permite que el usuario escriba una contraseña sin que se vea en la consola.
 
@@ -7,6 +7,7 @@ from getpass import getpass
 usuarios = []
 
 # Clase Usuario
+
 class Usuario:
     def __init__(self, nombre, email, contraseña, rol="usuario"):
         self.nombre = nombre
@@ -28,6 +29,7 @@ def validar_contraseña(clave):
   
 
 # Registro de usuario
+
 def registrar_usuario():
     print("\n--- Registro de Usuario ---")
     nombre = input("Nombre de usuario: ")
@@ -44,6 +46,7 @@ def registrar_usuario():
   
 
 # Inicio de sesión
+
 def iniciar_sesion():
     print("\n--- Inicio de Sesión ---")
     email = input("Email: ")
@@ -59,8 +62,10 @@ def iniciar_sesion():
             return
 
     print("Credenciales incorrectas.\n")
+    
 
 # Menú para usuario estándar
+
 def menu_usuario(usuario):
     while True:
         print("\n--- Menú Usuario ---")
@@ -75,8 +80,10 @@ def menu_usuario(usuario):
             break
         else:
             print("Opción no válida.")
+            
 
 # Menú para administrador
+
 def menu_admin(usuario):
     while True:
         print("\n--- Menú Administrador ---")
@@ -113,8 +120,10 @@ def menu_admin(usuario):
             break
         else:
             print("Opción no válida.")
+            
 
 # Menú principal
+
 def menu_principal():
     while True:
         print("\n--- Bienvenido al Sistema ---")
@@ -133,8 +142,11 @@ def menu_principal():
         else:
             print("Opción no válida.")
 
-# Ejecutar el programa
+
+
+
 if __name__ == "__main__":
+    
     # Cargar un admin por defecto
     usuarios.append(Usuario("admin", "admin@email.com", "admin123", "admin"))
     menu_principal()
