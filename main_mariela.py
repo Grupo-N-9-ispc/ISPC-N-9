@@ -4,7 +4,6 @@
 
 from getpass import getpass 
 
-# Datos simulados (luego se conectarán con base de datos)
 usuarios = []
 
 # Clase Usuario
