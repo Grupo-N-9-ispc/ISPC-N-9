@@ -5,7 +5,6 @@ from getpass import getpass
 # Datos simulados (luego se conectarán con base de datos)
 usuarios = []
 
-# Clase Usuario
 class Usuario:
     def __init__(self, nombre, email, contraseña, rol="usuario"):
         self.nombre = nombre
@@ -21,11 +20,10 @@ class Usuario:
         print(f"Email: {self.email}")
         print(f"Rol: {self.rol}\n")
 
-# Función para validar contraseña
+#Esta es la función para validar la contraseña
 def validar_contraseña(clave):
     return len(clave) >= 6 and any(c.isdigit() for c in clave) and any(c.isalpha() for c in clave)
 
-# Registro de usuario
 def registrar_usuario():
     print("\n--- Registro de Usuario ---")
     nombre = input("Nombre de usuario: ")
@@ -40,7 +38,6 @@ def registrar_usuario():
     usuarios.append(nuevo_usuario)
     print("Usuario registrado con éxito.\n")
 
-# Inicio de sesión
 def iniciar_sesion():
     print("\n--- Inicio de Sesión ---")
     email = input("Email: ")
@@ -57,7 +54,7 @@ def iniciar_sesion():
 
     print("Credenciales incorrectas.\n")
 
-# Menú para usuario estándar
+#Este es el menú para el suario estándar
 def menu_usuario(usuario):
     while True:
         print("\n--- Menú Usuario ---")
@@ -73,7 +70,7 @@ def menu_usuario(usuario):
         else:
             print("Opción no válida.")
 
-# Menú para administrador
+# Menú para el administrador
 def menu_admin(usuario):
     while True:
         print("\n--- Menú Administrador ---")
@@ -111,7 +108,7 @@ def menu_admin(usuario):
         else:
             print("Opción no válida.")
 
-# Menú principal
+#Menú principal
 def menu_principal():
     while True:
         print("\n--- Bienvenido al Sistema ---")
@@ -130,9 +127,9 @@ def menu_principal():
         else:
             print("Opción no válida.")
 
-# Ejecutar el programa
-if __name__ == "__main__":
-    # Cargar un admin por defecto
+#Código para Ejecutar el programa
+if __name__ e= "__main__":
+    #Cargar un admin por defecto
     usuarios.append(Usuario("admin", "admin@email.com", "admin123", "admin"))
     menu_principal()
 
