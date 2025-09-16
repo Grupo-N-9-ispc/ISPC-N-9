@@ -1,0 +1,38 @@
+
+ ##EN ESTE MENU EL ADMINISTRADOR TIENE EL PODER DE VISUALIZAR Y CONTROLAR LOS USUARIOS REGISTRADOS
+def menu_admin(usuario):
+    while True:
+        print("\n--- Menú Administrador ---")
+        print("1. Ver todos los usuarios")
+        print("2. Cambiar rol de usuario")
+        print("3. Eliminar usuario")
+        print("4. Cerrar sesión")
+        opcion = input("Opción: ")
+
+        if opcion == "1":
+            for u in usuarios:
+                u.ver_datos()
+        elif opcion == "2":
+            email = input("Email del usuario a modificar: ")
+            for u in usuarios:
+                if u.email == email:
+                    nuevo_rol = input("Nuevo rol (admin/usuario): ")
+                    u.rol = nuevo_rol
+                    print("Rol actualizado.")
+                    break
+            else:
+                print("Usuario no encontrado.")
+        elif opcion == "3":
+            email = input("Email del usuario a eliminar: ")
+            for u in usuarios:
+                if u.email == email:
+                    usuarios.remove(u)
+                    print("Usuario eliminado.")
+                    break
+            else:
+                print("Usuario no encontrado.")
+        elif opcion == "4":
+            print("Sesión cerrada.")
+            break
+        else:
+            print("Opción no válida.")
